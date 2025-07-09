@@ -19,7 +19,7 @@ Open XAMPP Control panal and start [apache] and [mysql] .
 Download this project from github OR follow gitbash commands :
 i> cd C:\xampp\htdocs\
 
-ii> git clone https://github.com/SmileWithKhushi/Basic-Banking-System.git
+ii> git clone https://github.com/divdew/BasicBankingSystem
 
 Extract the files in C:\xampp\htdocs.
 Open link localhost/phpmyadmin
