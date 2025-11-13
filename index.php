@@ -61,7 +61,7 @@
 <div class="pagebreak">
 </div>
 <div class="footer"> <center>
-  Made with ❤️ By Khushi !
+  Made with ❤️ By Deevyansh !
 </center>
 </div>
 </center>
